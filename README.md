@@ -1,2 +1,1 @@
-# simple chicken cross road game
- 
+# simple chicken cross road game using pygame.
